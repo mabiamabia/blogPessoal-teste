@@ -1,0 +1,28 @@
+ul.social-network {
+    list-style: none;
+    padding: 0;
+}
+
+ul.social-network li {
+    display: inline;
+    margin: 0;
+    padding: 5px;
+}
+
+.fa {
+    font-size: 35pt;
+    color: rgb(240, 189, 95);
+    padding: 10px;
+}
+
+.fa-user:hover{
+    color: black;
+}
+
+.fa-rocket:hover{
+    color: black;
+}
+
+.fa-thumbs-up:hover{
+    color: black;
+}
